@@ -1,0 +1,105 @@
+.fon{
+    height: 700px;
+    width: 500px;
+    background-image: url(WAF.jpg);
+    background-size:cover;
+    padding: 100px 50px 0px;
+}
+.h1{
+    color: #2A4A5C;
+    font-size: 20px;
+    margin: -700px -10px -10px 700px;
+    font-weight: 40px;
+}
+.ulu{
+    width: 2500px ;
+    height: 1000px ;
+    background-image: url(Facebook-Login.png), url(linkedin-shares-services.png);
+    background-size: 5%;
+    background-repeat: no-repeat;
+    background-position: 700px 25px, 950px 25px, 0px 0px;
+    padding: 1000px 500px 1000px 1000px;
+}
+
+h2{
+    margin: -2900px 50px 50px 895px;
+}
+.Email{
+    width: 200px;
+    height: 50px;
+    color: #2A4A5C;
+    border-spacing: collapse;
+    border-left: 3px solid #2a8adf;
+    margin: 20px 100px 1000px 700px;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+}
+.Phone{
+    color: #2A4A5C;
+    width: 200px;
+    height: 50px;
+    border-spacing: collapse;
+    margin: -1053px 0px 0px 940px;
+    border: 1px solid gray;
+    border-bottom: 1px solid gray;
+
+}
+h3{
+    margin: 40px 0px 0px 700px;
+    color: #2c5166;
+    font-size: 30px;
+    font-size: larger;
+}
+.www{
+    margin: 0px 0px 0px 700px;
+    color: #2c5166;
+}
+.Individual{
+    margin:-970px 0px 0px -280px;
+    ul.hr{
+        margin:0;
+        padding: 4px;
+    }}
+ul.list li{
+    padding: 0px; 
+    margin: 20px -600px 0px 660px;
+    list-style-type:none;
+    list-style-position:inside;
+}
+ul {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.list1{
+    padding: -10px 0px 0px 0px; 
+    margin: -18px -5px;
+}
+.list2{
+    padding: -300px 0px 0px 0px;
+    margin: -8px -5px; 
+}
+.list3{
+    padding: 10px 0px 0px 0px; 
+    margin: -8px -5px; 
+}
+.pp{
+    margin:40px 0px 0px 654px; 
+} 
+.rectangle{        
+    width: 230px;
+    height: 50px;
+    background: #3698FB;
+    margin:50px 0px 0px 654px; 
+
+    font-size:25px;
+    text-align: center;
+}
+.text{
+    margin:-63px 0px 0px 692px; 
+    color: rgb(255, 255, 255);
+    font-size:25px;
+}
+
